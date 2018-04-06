@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch/xpack",
+  "name": "silverorange/elasticsearch-x-pack-php",
   "description": "XPack namespace for Elasticsearch-PHP",
   "keywords": ["search","client", "elasticsearch", "xpack"],
   "type": "library",
